@@ -1,0 +1,3 @@
+﻿prefix = D
+token= NTM0ODIxNjgyMDU0MDM3NTA0.Dx_LmA.CTzpbvezxH9WXkWguwcSyCx_WUQ
+owner= 481958578849185817
